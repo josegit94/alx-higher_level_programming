@@ -1,7 +1,10 @@
 #!/usr/bin/node
+/**
+* Prints the constant variable
+*/
 
-let myVar;
+const myVar;
 
-myVar = 'Javascript is amazing'
+myVar = 'Javascript is amazing';
 
 console.log(myVar);
