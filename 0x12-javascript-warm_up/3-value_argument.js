@@ -1,5 +1,5 @@
 #!/usr/bin/node
-/** 
+/**
  * a script that prints a message depending
  * on the number of arguments passed:
  * if no arguments are passed to the script, print “No argument”
